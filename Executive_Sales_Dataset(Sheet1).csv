@@ -1,0 +1,21 @@
+OrderID,OrderDate,Category,Sub-Category,Region,State,Customer,Sales,Quantity,Discount,Profit
+ORD-10000,1/1/2019,Furniture,Bookcases,East,Oregon,Small Business,3488.42,7,0,357.89
+ORD-10001,1/2/2019,Office Supplies,Binders,East,Nevada,Home Office,3601.37,2,0,1006.98
+ORD-10002,1/3/2019,Office Supplies,Binders,West,New York,Home Office,3430.45,1,0,533.36
+ORD-10003,1/4/2019,Technology,Machines,West,New York,Consumer,3650.67,1,0,179.24
+ORD-10004,1/5/2019,Office Supplies,Binders,South,Texas,Consumer,2977.63,5,0,508.82
+ORD-10005,1/6/2019,Office Supplies,Art,East,California,Consumer,2667.13,1,0,621.46
+ORD-10006,1/7/2019,Technology,Acessories,West,Oregon,Consumer,2470.58,7,0.1,321.24
+ORD-10007,1/8/2019,Office Supplies,Art,South,Illinois,Small Business,1628.34,2,0,167.79
+ORD-10008,1/9/2019,Furniture,Bookcases,Central,Michigan,Small Business,4940.22,12,0.1,1238.89
+ORD-10009,1/10/2019,Furniture,Bookcases,East,Nevada,Small Business,4940.22,5,0,360.08
+ORD-10010,1/11/2019,Technology,Laptops,South,Michigan,Small Business,4451.53,5,0.1,1009.16
+ORD-10011,1/12/2019,Office Supplies,Appliances,East,Virignia,Corporate,2519.15,5,0,168.78
+ORD-10012,1/13/2019,Technology,Phones,South,Colorado,Home Office,3422.65,11,0.3,155.39
+ORD-10013,1/14/2019,Furniture,Bookcases,Central,Michigan,Small Business,4928.09,2,0,1114.37
+ORD-10014,1/15/2019,Furniture,Furnishings,South,Georgia,Home Office,2414.84,6,0.1,261.81
+ORD-10015,1/16/2019,Furniture,Tables,East,Virginia,Home Office,1726.96,4,0,282.27
+ORD-10016,1/17/2019,Furniture,Bookcases,West,Nevada,Consumer,4349.46,3,0,766.2
+ORD-10017,1/18/2019,Technology,Machines,South,Oregon,Coporate,2937.96,7,0,281.55
+ORD-10018,1/19/2019,Technology,Copiers,West,New York,Small Business,893.36,7,0,281.55
+ORD-10019,1/20/2019,Office Supplies,Art,East,California,Corporate,987.23,11,0,59.85
